@@ -72,7 +72,12 @@ E-mail：759315223@qq.com
 
 # NOTES SAB
 https://michiel.vanderwulp.be/domotica/Modules/ESP32-C3-SuperMini-OLED/
+
 Works with this u8g2 descriptor:
 
+```
 U8G2_SH1106_72X40_WISE_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE, 6, 5); // [full framebuffer, size = 360 bytes]
+```
+
+https://emalliab.wordpress.com/2025/02/12/esp32-c3-0-42-oled/
 
